@@ -1,9 +1,9 @@
 # Populating and Analyzing Data with Logical and Lookup Functions in Excel
 ## Project Objective
-This project demonstrates the application of Excel's Logical and Lookup functions by populating and analyzing data within an inventory dataset. 
+This project demonstrates the application of Excel's logical and lookup functions by populating and analyzing data within an inventory dataset. 
 
 ## Dataset(s)
-- The <a href="https://github.com/DennyMandaka/Projects/blob/main/Cleaning%20and%20Manipulating%20Text%20Strings.xlsx">dataset</a> was sourced from the "Excel Skills for Data Analytics and Visualization" course offered by Macquarie University on Coursera. It contains information from an inventory database, including item codes, categories, number of stocks, prices, and many more.
+- The <a href="https://github.com/DennyMandaka/Populating-and-Analyzing-Data-with-Logical-and-Lookup-Functions-in-Excel/blob/main/Logical%20and%20Lookup%20Functions.xlsx">dataset</a> was sourced from the "Excel Skills for Data Analytics and Visualization" course offered by Macquarie University on Coursera. It contains information from an inventory database, including item codes, categories, number of stocks, prices, and many more.
 
 ## Populating and Analyzing Data with Logical and Lookup Functions
 - In I4 use an IF function to determine if the Num in Stock is below the minimum stock level. If it is put a "Y" otherwise leave the cell blank.
@@ -26,7 +26,7 @@ This project demonstrates the application of Excel's Logical and Lookup function
 - Use VLOOKUP to populate the Item Description/Details based on the Item Code.
 - Use the combination of INDEX and MATCH to create a dynamic lookup.
 - Use the IFNA and IFERROR to handle potential missing or error values.
-- The <a href="https://github.com/DennyMandaka/Cleaning-and-Manipulating-Text-Strings/blob/main/Cleaning%20and%20Manipulating%20Text%20Strings.png">result</a> is like this and <a href="https://github.com/DennyMandaka/Cleaning-and-Manipulating-Text-Strings/blob/main/Cleaning%20and%20Manipulating%20Text%20Strings.png">like this</a>.
+- The <a href="https://github.com/DennyMandaka/Populating-and-Analyzing-Data-with-Logical-and-Lookup-Functions-in-Excel/blob/main/Inventory.png">result</a> is like this and <a href="https://github.com/DennyMandaka/Populating-and-Analyzing-Data-with-Logical-and-Lookup-Functions-in-Excel/blob/main/Customer%20Quote.png">like this</a>.
 
 ## Insights and Conclusion
 - Logical functions like IF, AND, and NOT simplify decision-making by automating checks, such as identifying items below minimum stock levels or calculating retail prices
